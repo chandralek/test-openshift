@@ -1,1 +1,1 @@
-# test-openshift today
+# test-openshift
